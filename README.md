@@ -582,9 +582,6 @@ El proyecto incluye automatización completa con GitHub Actions:
 
 Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
 
-## 👥 Autores
-
-- **Tu Nombre** - *Desarrollo inicial* - [@tu-usuario](https://github.com/tu-usuario)
 
 ## 🙏 Agradecimientos
 
